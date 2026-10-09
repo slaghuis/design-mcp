@@ -1,4 +1,3 @@
- # Design MCP
  # Design/ADR MCP Server
 A dedicated MCP server for architectural knowledge: ADRs, design docs, runbooks, RFCs, and READMEs. Agents consult this before making architectural decisions, which keeps them aligned with past choices and dramatically improves the quality of their proposals.
 
