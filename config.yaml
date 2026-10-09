@@ -1,0 +1,12 @@
+listen: ":8767"
+
+qdrant:
+  host: localhost
+  port: 6334
+  collection: design_docs
+
+ollama:
+  base_url: http://localhost:11434
+  model: bge-m3
+
+cache_size: 512
